@@ -1,0 +1,25 @@
+{
+  "name": "adventofcode2021",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "runDay1Part1": "node src/days/1/part-1/main.js",
+    "runDay1Part2": "node src/days/1/part-2/main.js",
+    "runDay2Part1": "node src/days/2/part-1/main.js",
+    "runDay2Part2": "node src/days/2/part-2/main.js",
+    "runDay3Part1": "node src/days/3/part-1/main.js",
+    "runDay3Part2": "node src/days/3/part-2/main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-prettier": "^4.0.0",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.0.4"
+  }
+}

@@ -1,6 +1,6 @@
 import {readFile} from "../../../constants.js";
 
-const data = readFile('src/days/1/data.txt')
+const data = readFile('2022/day/1/data.txt')
 
 const totalNumberOfCalories = [];
 

@@ -66,7 +66,7 @@ const RockPaperScissorsCalculatePoints = (me, opponent) => {
     return points
 }
 
-const data = readFile('src/days/2/data.txt')
+const data = readFile('2022/day/2/data.txt')
 
 let totalPoints = 0
 
